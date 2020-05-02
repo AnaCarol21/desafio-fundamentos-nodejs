@@ -22,7 +22,7 @@ yarn
 ```
 Iniciar aplicação
 ```
-yarn start
+yarn dev:server
 ```
 Aplicar testes
 ```
